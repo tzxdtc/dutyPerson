@@ -1,0 +1,4 @@
+# 概要
+毎日MTGのfacilitatorが変わり、それを日付によって自動的にSlackに投稿してくれるscriptです。
+
+Googleのspeadsheetsを使ってます。
